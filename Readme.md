@@ -20,6 +20,5 @@
 
 + Unicode characters support!
 
-#
-	* [Unix signals](./Readme/UNIX_SIGNALS.md)
-	* <a href ="Readme/UNIX_SIGNALS.md"> Unix Signals </a>
+# Knowledgement
+<a hrer="https://github.com/ahammout/Minitalk/blob/main/Readme/UNIX_SIGNALS.md">About Unix_signals </a>
