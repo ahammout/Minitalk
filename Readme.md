@@ -21,4 +21,4 @@
 + Unicode characters support!
 
 # Knowledgement
-<a hrer="https://github.com/ahammout/Minitalk/blob/main/Readme/UNIX_SIGNALS.md">About Unix_signals </a>
+<a href="https://github.com/ahammout/Minitalk/blob/main/Readme/UNIX_SIGNALS.md">About Unix_signals </a>
